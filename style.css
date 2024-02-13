@@ -57,9 +57,9 @@ h3 {
   flex-wrap: nowrap;
   height: 1.7rem;
   width: 1.7rem;
-  position: absolute;
-  top: 27px;
-  right: 490px;
+  position: relative;
+  bottom: 310px;
+  left: 190px;
 }
 
 .equis1 {
@@ -67,9 +67,9 @@ h3 {
   flex-wrap: nowrap;
   height: 1.7rem;
   width: 1.7rem;
-  position: absolute;
-  right: 490px;
-  bottom: 133px;
+  position: relative;
+  bottom: 300px;
+  left: 190px;
 }
 
 .active:hover {
